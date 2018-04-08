@@ -1,6 +1,6 @@
 # App
 
-Hello Everyone this is an app by Sankalp Chauhan, Vaibhav of Delhi Technical Campus and Eshwaran of Maharaja Surajmal Institute of Technology
+Hello Everyone this is an app by Sankalp Chauhan of Maharaja Agrasen Institute Of Technology, Vaibhav of Delhi Technical Campus and Eshwaran of Maharaja Surajmal Institute of Technology
 
 ## Getting Started
 
