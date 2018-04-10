@@ -12,7 +12,7 @@ import android.support.v4.app.FragmentPagerAdapter;
  * Provides the appropriate {@link Fragment} for a view pager.
  */
 public class SimpleFragmentPagerAdapter extends FragmentPagerAdapter {
-    private String tabTitles[] = new String[] { "Tab1", "Tab2", "Tab3" };
+    private String tabTitles[] = new String[] { "Video", "Tab2", "Tab3" };
 
     public SimpleFragmentPagerAdapter(FragmentManager fm, MainActivity mainActivity) {
         super(fm);
